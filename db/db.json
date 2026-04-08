@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nome": "Ração Royal Canin Adulto",
+      "categoria": "Rações",
+      "preco": 189.9,
+      "estoque": 45,
+      "status": "ativo",
+      "descricao": "Ração premium para cães adultos de porte médio/grande"
+    },
+    {
+      "id": "2",
+      "nome": "Vermífugo Drontal Plus",
+      "categoria": "Medicamentos",
+      "preco": 89.5,
+      "estoque": 28,
+      "status": "ativo",
+      "descricao": "Vermífugo de amplo espectro para cães e gatos"
+    },
+    {
+      "nome": "Shampoo Pet Clean",
+      "categoria": "Higiene e Limpeza",
+      "preco": 42.9,
+      "estoque": 15,
+      "status": "ativo",
+      "descricao": "Shampoo hipoalergênico com aloe vera",
+      "id": "3"
+    },
+    {
+      "nome": "rer",
+      "categoria": "Higiene e Limpeza",
+      "preco": 123,
+      "estoque": 123,
+      "status": "ativo",
+      "descricao": "eeqe",
+      "id": "0RQ3bEHGvQI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
