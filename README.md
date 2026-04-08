@@ -32,3 +32,20 @@ Aplicação web para gerenciamento de produtos de uma distribuidora veterinária
 ```bash
 git clone https://github.com/TarsoVinicius/desafio_ma9.git
 cd desafio_ma9
+
+2. **Instale as dependências**
+
+npm install
+
+3. **Inicie o Backend**
+- No terminal execute: 
+
+npx json-server --watch db/db.json --port 3001
+
+4. **Inicie o Frontend**
+
+- Abra outro terminal e execute:
+
+npm run dev
+
+5. **Acesse a aplicação em: http://localhost:5173**
