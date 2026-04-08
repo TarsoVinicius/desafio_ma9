@@ -1,42 +1,34 @@
-# Projeto-Vaga
+# 🐾 Distribuidora Veterinária
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicação web para gerenciamento de produtos de uma distribuidora veterinária, desenvolvida como desafio técnico.
 
-## Recommended IDE Setup
+## ✨ Funcionalidades
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Listagem de produtos com filtros avançados (categoria, faixa de preço e status)
+- Cadastro, edição e exclusão de produtos
+- Consumo de API REST utilizando json-server
+- Interface moderna, clean e totalmente responsiva
+- Validação básica de formulários
 
-## Recommended Browser Setup
+## 🛠️ Tecnologias Utilizadas
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- **Vue 3** + Composition API + `<script setup>`
+- **TypeScript**
+- **SCSS** para estilização
+- **Pinia** (gerenciamento de estado)
+- **Axios** (consumo de API)
+- **Vite** (build tool)
+- **json-server** (API mock REST)
 
-## Type Support for `.vue` Imports in TS
+## 🚀 Como Rodar o Projeto Localmente
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+### Pré-requisitos
+- Node.js (versão 18 ou superior)
 
-## Customize configuration
+### Passos
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1. **Clone o repositório**
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+```bash
+git clone https://github.com/TarsoVinicius/desafio_ma9.git
+cd desafio_ma9
