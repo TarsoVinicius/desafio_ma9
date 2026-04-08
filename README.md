@@ -17,8 +17,8 @@ Aplicação web para gerenciamento de produtos de uma distribuidora veterinária
 - **SCSS** para estilização
 - **Pinia** (gerenciamento de estado)
 - **Axios** (consumo de API)
-- **Vite** (build tool)
-- **json-server** (API mock REST)
+- **Vite** 
+- **json-server** (API)
 
 ## 🚀 Como Rodar o Projeto Localmente
 
