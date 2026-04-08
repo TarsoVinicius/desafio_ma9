@@ -23,7 +23,7 @@ Aplicação web para gerenciamento de produtos de uma distribuidora veterinária
 ## 🚀 Como Rodar o Projeto Localmente
 
 ### Pré-requisitos
-- Node.js (versão 18 ou superior)
+- Node.js 
 
 ### Passos
 
